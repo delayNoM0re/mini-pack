@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "acorn": "^8.4.1",
+    "espree": "^8.0.0"
+  }
+}
